@@ -1,4 +1,3 @@
-Certainly! Here's a detailed README content for your File-System-Organizer project:
 
 ---
 
